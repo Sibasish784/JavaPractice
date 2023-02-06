@@ -1,2 +1,2 @@
 # JavaPractice
- all java practice
+all java practice
